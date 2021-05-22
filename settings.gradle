@@ -1,2 +1,9 @@
 rootProject.name = "HanAndroid"
 include ':app'
+include ':homepage'
+include ':navigation'
+include ':system'
+include ':project'
+include ':user'
+include ':base'
+include ':common'
